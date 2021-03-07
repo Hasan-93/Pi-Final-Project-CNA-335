@@ -1,4 +1,4 @@
-# Pi-Final-Project-CNA-335
+# Pi hole-Final-Project-CNA-335
 
 ### Update and Upgrade the Pi by 
 ```
