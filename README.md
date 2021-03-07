@@ -49,15 +49,18 @@ To deselect the suggested list, use spacebar
 <Ok>
 ```
 
-###
-
+```
+Select Protocols (press space to toggle selection)
+(*) StevenBlack 
+(*) MalwareDom
+<Ok>
 ```
 
-```
-
-###
+### Static IP Address
 
 ```
+Do you want to use your current network settings as a static  address?                                                        IP address:    192.168.0.188/24  
+Gateway:       192.168.0.1  
 
 ```
 
