@@ -1,6 +1,6 @@
 import paramiko
 user_name = "pi"
-passwd = "Hasan123"
+passwd = "password"
 ip = "192.168.0.188"
 
 ssh = paramiko.SSHClient()
